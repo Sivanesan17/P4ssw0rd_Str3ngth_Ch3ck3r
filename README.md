@@ -1,0 +1,1 @@
+# P4ssw0rd_Str3ngth_Ch3ck3r

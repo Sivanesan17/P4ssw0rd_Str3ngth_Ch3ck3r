@@ -8,32 +8,32 @@
 
 **Features**
 
-  Length Check: Ensures the password is at least 8 characters long.
+ * Length Check: Ensures the password is at least 8 characters long.
   
-  Uppercase Check: Checks for the presence of at least one uppercase letter.
+ * Uppercase Check: Checks for the presence of at least one uppercase letter.
   
-  Lowercase Check: Checks for the presence of at least one lowercase letter.
+ * Lowercase Check: Checks for the presence of at least one lowercase letter.
   
-  Digit Check: Ensures the password contains at least one numerical digit.
+ * Digit Check: Ensures the password contains at least one numerical digit.
   
-  Special Character Check: Verifies the inclusion of at least one special character from a predefined set.
+ * Special Character Check: Verifies the inclusion of at least one special character from a predefined set.
   
 
 **How It Works**
   
-  User Input: The user is prompted to enter a password.
+  * User Input: The user is prompted to enter a password.
  
-  Criteria Evaluation: The password is evaluated against the following criteria:
+  * Criteria Evaluation: The password is evaluated against the following criteria:
   
-  Length (minimum 8 characters)
-  Inclusion of uppercase letters
-  Inclusion of lowercase letters
-  Inclusion of digits
-  Inclusion of special characters
+  * Length (minimum 8 characters)
+    Inclusion of uppercase letters
+    Inclusion of lowercase letters
+    Inclusion of digits
+    Inclusion of special characters
   
-  Scoring System: The password receives a score based on the number of criteria met.
+  * Scoring System: The password receives a score based on the number of criteria met.
   
-  Feedback: The user receives feedback on the password's strength, categorized as Weak, Medium, or Strong, along with                      suggestions for improving weak passwords.
+  * Feedback: The user receives feedback on the password's strength, categorized as Weak, Medium, or Strong, along with                      suggestions for improving weak passwords.
 
 
 **Usage**
@@ -57,35 +57,35 @@
 
 **Benefits**
 
-  User Awareness: Educates users about the importance of strong passwords.
+  * User Awareness: Educates users about the importance of strong passwords.
   
-  Security Enhancement: Helps users create more secure passwords, reducing the risk of unauthorized access.
+  * Security Enhancement: Helps users create more secure passwords, reducing the risk of unauthorized access.
   
-  Immediate Feedback: Provides instant feedback and actionable suggestions for improving password security.
+  * Immediate Feedback: Provides instant feedback and actionable suggestions for improving password security.
 
 
 **Future Enhancements**
 
-  GUI Integration: Develop a graphical user interface for easier use.
+  * GUI Integration: Develop a graphical user interface for easier use.
   
-  Advanced Criteria: Add checks for common password patterns and dictionary words.
+  * Advanced Criteria: Add checks for common password patterns and dictionary words.
   
-  Password History: Implement a feature to store and compare previous passwords for repeated use.
+  * Password History: Implement a feature to store and compare previous passwords for repeated use.
 
 
 **Requirements**
 
-  Python 3.x: Ensure Python is installed on your system. Download it from python.org.
+  * Python 3: Ensure Python is installed on your system. Download it from python.org.
 
-  Installation and Execution
+  * Installation and Execution
   
-  Download the Script: Save the script as password_checker.py.
+  * Download the Script: Save the script as p4ssw0rd_str3ngth.py.
   
 
 Run the Script:
 
   ```
-    python password_checker.py
+    python3 p4ssw0rd_str3ngth.py
   ```
 
 

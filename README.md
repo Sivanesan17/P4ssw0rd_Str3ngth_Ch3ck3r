@@ -1,8 +1,10 @@
 # P4ssw0rd_Str3ngth_Ch3ck3r
 
+
 **Overview**
 
   The Password Strength Checker is a Python-based application designed to evaluate the strength of user-provided passwords. It assesses the security of a password based on several criteria, including length, the inclusion of uppercase and lowercase letters, digits, and special characters. The project aims to help users create stronger passwords by providing immediate feedback on the strength of their passwords and suggestions for improvement.
+
 
 **Features**
 
@@ -16,6 +18,7 @@
   
   Special Character Check: Verifies the inclusion of at least one special character from a predefined set.
   
+
 **How It Works**
   
   User Input: The user is prompted to enter a password.
@@ -77,11 +80,13 @@
   Installation and Execution
   
   Download the Script: Save the script as password_checker.py.
+  
 
 Run the Script:
 
   ```
     python password_checker.py
   ```
+
 
 This Password Strength Checker is a practical tool for anyone looking to enhance their understanding of password security and develop skills in Python programming, particularly in string handling and regular expressions.
